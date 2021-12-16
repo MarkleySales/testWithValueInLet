@@ -9,3 +9,7 @@ let ageConfirm= confirm("Sua idade é " + age + "?");
 alert("Seu nome é " + nameUser);
 alert("Sua idade é " + age);
 alert("Idade confirmada: " + ageConfirm);
+
+console.log(nameUser);
+console.log(age);
+console.log(ageConfirm);
